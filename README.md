@@ -67,5 +67,5 @@ For support, please [open an issue](https://github.com/Dream-Pixels-Forge/QuickR
 
 
 ## Version
-1.0.0
+1.0.6
 
